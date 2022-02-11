@@ -31,10 +31,10 @@ To solve the langton's ant problem, object oriented programming is used.
     + init
     + move
 3. Ant
-  -  attributes:
-    + x
-    + y
-    + direction
+  - attributes:
+    + x  
+    + y  
+    + direction  
   - methods:
     + rotateClockwise
     + rotateAntiClockwise
