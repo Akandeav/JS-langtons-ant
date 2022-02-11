@@ -129,7 +129,7 @@ class Grid {
 				ctx.fillRect(this.ant.x, this.ant.y, 1, 1);
 				this.ant.moveForward(this.width, this.height);
 			}
-			// Set ccolor of ant as red
+			// Set color of ant as red
 			ctx.fillStyle = 'red';
 			ctx.fillRect(this.ant.x, this.ant.y, 1, 1);
 		}
