@@ -119,7 +119,7 @@ class Grid {
 			}
 
 			// If square is black
-			// Turn 90 degrees clockwise
+			// Turn 90 degrees anti-clockwise
 			// Flip  square color to white 
 			// Move ant forward one unit
 			else if (square.isColor === "black") {
